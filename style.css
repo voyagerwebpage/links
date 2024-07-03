@@ -1,0 +1,16 @@
+* {
+    background-color: #333;
+    color: rgb(224, 216, 202);
+}
+
+p {
+    margin: 0%;
+}
+
+a {
+    color: rgb(150, 199, 199);
+}
+
+a:visited {
+    color: rgb(236, 152, 236);
+}
